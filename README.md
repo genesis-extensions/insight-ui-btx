@@ -1,6 +1,6 @@
 # Insight UI
 
-A ZelCash blockchain explorer web application service for [ZelCash Bitcore Node](https://github.com/TheTrunk/bitcore-node-zelcash) using the [ZelCash Insight API](https://github.com/TheTrunk/insight-api-zelcash).
+A BitCore blockchain explorer web application service for [BitCore Bitcore Node](https://github.com/BTXinsight/bitcore-node-btx) using the [BitCore Insight API](https://github.com/BTXinsight/insight-api-btx).
 
 ## Quick Start
 
@@ -11,13 +11,13 @@ Please see the guide at [https://bitcore.io/guides/full-node](https://bitcore.io
 To manually install all of the necessary components, you can run these commands:
 
 ```bash
-git clone https://github.com/TheTrunk/bitcore-node-zelcash.git
-cd bitcore-node-zelcash
+git clone https://github.com/BTXinsight/bitcore-node-btx.git
+cd bitcore-node-btx
 npm install
 bitcore-node create mynode
 cd mynode
-bitcore-node install insight-api-zelcash
-bitcore-node install insight-ui-zelcash
+bitcore-node install insight-api-btx
+bitcore-node install insight-ui-btx
 bitcore-node start
 ```
 
@@ -72,11 +72,11 @@ compile***.
 
 ## Note
 
-For more details about the [Insight API](https://github.com/TheTrunk/insight-api-zelcash) configuration and end-points, go to [Insight API GitHub repository](https://github.com/TheTrunk/insight-api-zelcash).
+For more details about the [Insight API](https://github.com/BTXinsight/insight-api-btx) configuration and end-points, go to [Insight API GitHub repository](https://github.com/BTXinsight/insight-api-btx).
 
 ## Contribute
 
-Contributions and suggestions are welcomed at the [Insight UI GitHub repository](https://github.com/TheTrunk/insight-ui-zelcash).
+Contributions and suggestions are welcomed at the [Insight UI GitHub repository](https://github.com/BTXinsight/insight-ui-btx).
 
 
 ## License

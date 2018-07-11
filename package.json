@@ -1,10 +1,10 @@
 {
-  "name": "insight-ui-zelcash",
-  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the zelcash network and build your own services with it.",
+  "name": "insight-ui-btx",
+  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the btx network and build your own services with it.",
   "version": "0.4.2",
   "repository": {
     "type": "git",
-    "url": "git://github.com/TheTrunk/insight-ui-zelcash.git"
+    "url": "git://github.com/BTXinsight/insight-ui-btx.git"
   },
   "contributors": [
     {
@@ -37,19 +37,19 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/TheTrunk/insight-ui-zelcash/issues"
+    "url": "https://github.com/BTXinsight/insight-ui-btx/issues"
   },
-  "homepage": "https://github.com/TheTrunk/insight-ui-zelcash",
+  "homepage": "https://github.com/BTXinsight/insight-ui-btx",
   "license": "MIT",
   "keywords": [
     "insight",
     "blockchain",
     "blockexplorer",
-    "zelcash",
+    "btx",
     "bitcore",
     "front-end"
   ],
-  "bitcoreNode": "bitcore-node-zelcash",
+  "bitcoreNode": "bitcore-node-btx",
   "dependencies": {},
   "devDependencies": {
     "bower": "~1.2.8",
