@@ -1,6 +1,6 @@
 # Insight UI
 
-A BitCore blockchain explorer web application service for [BitCore Bitcore Node](https://github.com/BTXinsight/bitcore-node-btx) using the [BitCore Insight API](https://github.com/BTXinsight/insight-api-btx).
+A BitCore blockchain explorer web application service for [BitCore Bitcore Node](https://github.com/genesis-extended/bitcore-node-genesis) using the [BitCore Insight API](https://github.com/genesis-extended/insight-api-genesis).
 
 ## Quick Start
 
@@ -11,13 +11,13 @@ Please see the guide at [https://bitcore.io/guides/full-node](https://bitcore.io
 To manually install all of the necessary components, you can run these commands:
 
 ```bash
-git clone https://github.com/BTXinsight/bitcore-node-btx.git
-cd bitcore-node-btx
+git clone https://github.com/genesis-extended/bitcore-node-genesis.git
+cd bitcore-node-genesis
 npm install
 bitcore-node create mynode
 cd mynode
-bitcore-node install insight-api-btx
-bitcore-node install insight-ui-btx
+bitcore-node install insight-api-genesis
+bitcore-node install insight-ui-genesis
 bitcore-node start
 ```
 
@@ -72,11 +72,11 @@ compile***.
 
 ## Note
 
-For more details about the [Insight API](https://github.com/BTXinsight/insight-api-btx) configuration and end-points, go to [Insight API GitHub repository](https://github.com/BTXinsight/insight-api-btx).
+For more details about the [Insight API](https://github.com/genesis-extended/insight-api-genesis) configuration and end-points, go to [Insight API GitHub repository](https://github.com/genesis-extended/insight-api-genesis).
 
 ## Contribute
 
-Contributions and suggestions are welcomed at the [Insight UI GitHub repository](https://github.com/BTXinsight/insight-ui-btx).
+Contributions and suggestions are welcomed at the [Insight UI GitHub repository](https://github.com/genesis-extended/insight-ui-genesis).
 
 
 ## License

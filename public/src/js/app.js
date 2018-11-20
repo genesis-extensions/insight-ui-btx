@@ -1,7 +1,7 @@
 'use strict';
 
 var testnet = false;
-var netSymbol = testnet ? 'TEL' : 'BTX';
+var netSymbol = testnet ? 'TEL' : 'GENX';
 
 var defaultLanguage = localStorage.getItem('insight-language') || 'en';
 var defaultCurrency = localStorage.getItem('insight-currency') || netSymbol;
